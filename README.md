@@ -1,2 +1,2 @@
 # esp32_ota
-ESP32 will create an HTTP request to check the contents of the firmware bin file in this repository.
+I'm using this public repository to test OTA (over the air) updates for the ESP32 microcontroller through Github, that is - the ESP32 will pull updated firmware directly from Github whenever there is a new version available.
